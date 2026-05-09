@@ -55,3 +55,8 @@ This script loads the saved model and allows interactive category prediction bas
 
 ```bash
 python src/train_model.py
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
